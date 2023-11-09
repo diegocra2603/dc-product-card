@@ -38,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "dc-product-card",
+  "name": "dc-product-card-prueba-dc-26",
   "author": "=",
   "module": "dist/dc-product-card.esm.js",
   "size-limit": [
